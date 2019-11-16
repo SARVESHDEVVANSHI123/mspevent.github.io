@@ -39,7 +39,9 @@ ___
 
 | Full Name| Email | Course |
 | --- | --- | --- |
-| Content 1 | Content 2 | Content 3 
+| SARVESH KUMAR DEVVANSHI | SARVESHDEVVANSHI860@GMAIL.COM | MCA I
+| HARIOM JI | HARIOMSONI565@GMAIL.COM | MCA I
+| ANKIT KANNAUJIYA | ANKITKANNAUJIYA21@GMAIL.COM | MCA I
 
 
 
